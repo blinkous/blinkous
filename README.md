@@ -1,2 +1,2 @@
 <img src="blinkous.gif" width="100%">
-Hi there!
+i think the blink is backwards.
