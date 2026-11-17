@@ -1,1 +1,1 @@
-<img src="blinkous.gif" width="100%">
+[<img src="blinkous.gif" width="100%">](https://dhani.dev/)
